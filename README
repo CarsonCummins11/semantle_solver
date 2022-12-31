@@ -1,0 +1,7 @@
+Hey! This is a simple app to beat the semantle game @ semantle.com.
+
+First, ensure all requirements are installed (listed in requirements.txt)
+
+Next, run the app with `python3 app.py` , and follow the instructions in terminal.
+
+Generally, it gets it in 2-4 guesses.
